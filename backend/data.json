@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "System Administrator",
+      "studentId": "ADMIN-001",
+      "email": "admin@heu.edu.ph",
+      "password": "$2a$10$RYzQDzQr0946YftMXdht4uF/zbIC/ou2BfKbA3JYz0ceo1R48F032",
+      "role": "admin",
+      "createdAt": "2026-11-05T03:08:34.594Z"
+    }
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "name": "President",
+      "departmentCode": "CTE",
+      "description": "CTE department election position"
+    },
+    {
+      "id": 2,
+      "name": "Vice President",
+      "departmentCode": "CTE",
+      "description": "CTE department election position"
+    },
+    {
+      "id": 3,
+      "name": "Secretary",
+      "departmentCode": "CTE",
+      "description": "CTE department election position"
+    },
+    {
+      "id": 4,
+      "name": "Treasurer",
+      "departmentCode": "CTE",
+      "description": "CTE department election position"
+    },
+    {
+      "id": 5,
+      "name": "Auditor",
+      "departmentCode": "CTE",
+      "description": "CTE department election position"
+    },
+    {
+      "id": 6,
+      "name": "President",
+      "departmentCode": "CCJE",
+      "description": "CCJE department election position"
+    },
+    {
+      "id": 7,
+      "name": "Vice President",
+      "departmentCode": "CCJE",
+      "description": "CCJE department election position"
+    },
+    {
+      "id": 8,
+      "name": "Secretary",
+      "departmentCode": "CCJE",
+      "description": "CCJE department election position"
+    },
+    {
+      "id": 9,
+      "name": "Treasurer",
+      "departmentCode": "CCJE",
+      "description": "CCJE department election position"
+    },
+    {
+      "id": 10,
+      "name": "Auditor",
+      "departmentCode": "CCJE",
+      "description": "CCJE department election position"
+    },
+    {
+      "id": 11,
+      "name": "President",
+      "departmentCode": "CICS",
+      "description": "CICS department election position"
+    },
+    {
+      "id": 12,
+      "name": "Vice President",
+      "departmentCode": "CICS",
+      "description": "CICS department election position"
+    },
+    {
+      "id": 13,
+      "name": "Secretary",
+      "departmentCode": "CICS",
+      "description": "CICS department election position"
+    },
+    {
+      "id": 14,
+      "name": "Treasurer",
+      "departmentCode": "CICS",
+      "description": "CICS department election position"
+    },
+    {
+      "id": 15,
+      "name": "Auditor",
+      "departmentCode": "CICS",
+      "description": "CICS department election position"
+    },
+    {
+      "id": 16,
+      "name": "President",
+      "departmentCode": "CBM",
+      "description": "CBM department election position"
+    },
+    {
+      "id": 17,
+      "name": "Vice President",
+      "departmentCode": "CBM",
+      "description": "CBM department election position"
+    },
+    {
+      "id": 18,
+      "name": "Secretary",
+      "departmentCode": "CBM",
+      "description": "CBM department election position"
+    },
+    {
+      "id": 19,
+      "name": "Treasurer",
+      "departmentCode": "CBM",
+      "description": "CBM department election position"
+    },
+    {
+      "id": 20,
+      "name": "Auditor",
+      "departmentCode": "CBM",
+      "description": "CBM department election position"
+    },
+    {
+      "id": 21,
+      "name": "President",
+      "departmentCode": "CAS",
+      "description": "CAS department election position"
+    },
+    {
+      "id": 22,
+      "name": "Vice President",
+      "departmentCode": "CAS",
+      "description": "CAS department election position"
+    },
+    {
+      "id": 23,
+      "name": "Secretary",
+      "departmentCode": "CAS",
+      "description": "CAS department election position"
+    },
+    {
+      "id": 24,
+      "name": "Treasurer",
+      "departmentCode": "CAS",
+      "description": "CAS department election position"
+    },
+    {
+      "id": 25,
+      "name": "Auditor",
+      "departmentCode": "CAS",
+      "description": "CAS department election position"
+    }
+  ],
+  "candidates": [],
+  "elections": [
+    {
+      "id": 1,
+      "title": "CTE Department Student Election 2026",
+      "status": "open",
+      "departmentCode": "CTE",
+      "createdAt": "2026-11-05T03:08:34.602Z"
+    },
+    {
+      "id": 2,
+      "title": "CCJE Department Student Election 2026",
+      "status": "open",
+      "departmentCode": "CCJE",
+      "createdAt": "2026-11-05T03:08:34.647Z"
+    },
+    {
+      "id": 3,
+      "title": "CICS Department Student Election 2026",
+      "status": "open",
+      "departmentCode": "CICS",
+      "createdAt": "2026-11-05T03:08:34.709Z"
+    },
+    {
+      "id": 4,
+      "title": "CBM Department Student Election 2026",
+      "status": "open",
+      "departmentCode": "CBM",
+      "createdAt": "2026-11-05T03:08:34.769Z"
+    },
+    {
+      "id": 5,
+      "title": "CAS Department Student Election 2026",
+      "status": "open",
+      "departmentCode": "CAS",
+      "createdAt": "2026-11-05T03:08:34.840Z"
+    }
+  ],
+  "votes": [],
+  "counters": {
+    "users": 2,
+    "positions": 26,
+    "candidates": 1,
+    "elections": 6,
+    "votes": 1
+  }
+}
